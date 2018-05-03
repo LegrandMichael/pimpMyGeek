@@ -22,6 +22,8 @@ config.codekit
 
 # Directories content
 
+*cache*
+
 cache/class_index.php
 
 cache/smarty/cache/*
